@@ -1,0 +1,234 @@
+a{
+    text-decoration: none;
+}
+#header{
+    background-color:white;
+    padding: 1rem 2rem 2rem 2rem;
+    position: sticky;
+    top: 0;
+}
+#apna_college_image{
+    padding-left: 120px;
+}
+#navigation{
+    font-size: larger;
+    text-align: right;
+    margin-top: -70px;
+    padding-right: 150px;
+}
+.image_web{
+    margin-left: 900px;
+    text-align: right;
+}
+.home{
+    padding-right: 15px;
+}
+.sign_out{
+    padding-left: 15px;
+}
+.my_batch{
+    padding-left: 15px;
+}
+.course{
+    padding-right: 15px;
+}
+.want_to{
+    padding-bottom: 2rem;    
+}
+#want_to_learn{
+    text-align: center;
+    margin: 15rem 0 0 0 ;
+    width: 50%;
+    line-height: 5px;
+}
+.want-to-learn-line-1{
+    color: rgb(41, 41, 247);
+    margin-right: 12rem;
+    font-size: 2.5rem;
+}
+.want-to-learn-line-2{
+    
+    margin-right: 17.5rem;
+    font-size: 2rem;
+}
+.want-to-learn-line-3{
+    margin-left: 7rem;
+    font-size: 1.5rem;
+}
+.image_web{
+    margin-top: -15rem;
+    width: 40%;
+}
+.footer{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    flex-direction: column;
+}
+.span_{
+    display: flex;
+    flex-direction: column;
+    
+}
+.section-2{
+    width: 100%;
+    background-color: rgb(70, 70, 148);
+    color: white;
+    text-align: center;
+}
+.section-2-heading{
+    text-align: center;
+    padding-top: 0.6rem;
+    padding-bottom: 1rem;
+    font-size: x-large;
+}
+.section-2-content{
+    display: inline-block;
+}
+.content{
+    padding-bottom: 1rem;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.content-1{
+    margin-left: 17rem;
+}
+.content-2{
+    text-align: center;
+}
+.content-3{
+    margin-right: 12rem;
+}
+.explore{
+    text-align: center;
+    padding-top: 3rem;
+}
+.explore>h3{
+    font-size: 2rem;
+    color: rgb(110, 110, 235);
+}
+.explore>h2{
+    padding-top: 1rem;
+    font-size: xx-large;
+}
+.explore>h4{
+    padding-top: 1rem;
+    font-size: larger;
+}
+.explore>button{
+    background-color: rgb(122, 122, 236);
+    color: white;
+    width: 7rem;
+    height: 3rem;
+    border-radius: 0.8rem;
+    font-size: 1rem;
+}
+.explore>button>img{
+    width: 10px;
+}
+.affection{
+    padding-top: 8rem;
+    text-align: center;
+}
+.affection>.affection-1>h4{
+    font-size: 2rem;
+}
+.affection>.affection-1>h4>img{
+    width: 1.3rem;
+    height: 1.3rem;
+}
+.affection>.affection-2>h3{
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+.social-media{
+    font-weight: 550;
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+}
+.social-media-title{
+    line-height: 0.5rem;
+    text-align: center;
+}
+.social-media-title>h2{
+    font-size: 2rem;
+    padding-bottom: 0.3rem;
+}
+.social-media-handle{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    display: grid;
+    grid-template-columns: repeat(3,1fr); 
+    
+}
+.social-media-handle-1{
+    text-align: center;
+}
+.social-media-handle-2{
+    padding-top: 0.2rem;
+    text-align: center;
+}
+.social-media-handle-3{
+    padding-top: 0.6rem;
+    text-align: center;
+}
+.social-media-handle-1>a>img{
+    width: 4rem;
+    height: 4rem;
+}
+.social-media-handle-2>a>img{
+    padding-top: 1rem;
+     width: 3rem;
+     height: 3rem;
+}
+.social-media-handle-3>a>img{
+    padding-top: 1rem;
+    width: 3rem;
+    height: 3rem;
+}
+.footer{
+    font-size: 1.1rem;
+    padding-bottom: 5rem;
+    display: grid;
+    grid-template-columns: repeat(6 , 10% 20% 20% 20% 20% 10%);
+}
+.footer-2>img{
+    padding-bottom: 1rem;
+}
+.footer-2{
+    line-height: 0.2rem;
+    text-align: left;
+}
+.footer-3{
+    text-align: left;
+    line-height: 0.5rem;
+}
+.footer-3>h3{
+    padding-bottom: 1rem;
+}
+/* .footer-3>a{
+    display: inline-block;
+} */
+.footer-3-para-3-2{
+    margin-right: 15px;
+    padding-bottom: 0.2rem;
+}
+.footer-4{
+    line-height: 0.5rem;
+    text-align: left;
+    display: block;
+}
+.footer-4>h3{
+    padding-bottom: 1rem;
+}
+.footer-4>p{
+    font-size: 1.3rem;
+}
+.footer-5>p{
+    line-height: 1px;
+    font-size: 1.3rem;
+}
+.footer-5>h3{
+    padding-bottom: 1rem;
+    padding-top: -1rem;
+}

@@ -1,0 +1,20 @@
+.div_1{
+    background-color: blue;
+}
+.div_2{
+    background-color: aqua;
+}
+.div{
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+}
+section{
+    background-color: aqua;
+    margin-top: 5rem;
+    margin-right: 50rem;
+}
+p{
+    background-color: black;
+    color: white;
+    margin-left: 15rem;
+}
